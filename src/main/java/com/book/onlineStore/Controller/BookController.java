@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 import com.book.onlineStore.Entity.Book;
 import com.book.onlineStore.Service.BookService;
-
+//controller
 @RestController
 public class BookController {
 	
